@@ -1,0 +1,11 @@
+/home/codepro/repos/DataProtection/bin/Debug/netcoreapp2.2/DataProtection.deps.json
+/home/codepro/repos/DataProtection/bin/Debug/netcoreapp2.2/DataProtection.runtimeconfig.json
+/home/codepro/repos/DataProtection/bin/Debug/netcoreapp2.2/DataProtection.runtimeconfig.dev.json
+/home/codepro/repos/DataProtection/bin/Debug/netcoreapp2.2/DataProtection.dll
+/home/codepro/repos/DataProtection/bin/Debug/netcoreapp2.2/DataProtection.pdb
+/home/codepro/repos/DataProtection/obj/Debug/netcoreapp2.2/DataProtection.csprojAssemblyReference.cache
+/home/codepro/repos/DataProtection/obj/Debug/netcoreapp2.2/DataProtection.csproj.CoreCompileInputs.cache
+/home/codepro/repos/DataProtection/obj/Debug/netcoreapp2.2/DataProtection.AssemblyInfoInputs.cache
+/home/codepro/repos/DataProtection/obj/Debug/netcoreapp2.2/DataProtection.AssemblyInfo.cs
+/home/codepro/repos/DataProtection/obj/Debug/netcoreapp2.2/DataProtection.dll
+/home/codepro/repos/DataProtection/obj/Debug/netcoreapp2.2/DataProtection.pdb
